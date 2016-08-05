@@ -1,0 +1,29 @@
+   REASON FOR TEST CASE                     INPUT VALUES			         EXPECTED OUTPUT
+---------------------------------------------------------------------------------------------------------------
+1) Invalid Entry in User Menu		  menuChoice = "something invalid"		Display the menu Again
+
+2) Valid Entry in User Menu               
+   (user chose any of the given		  menuChoice = "add" or "1"			Call to askInfo() function
+    options)				  menuChoice = "search" or "2"			Call to precheck() function
+                                          menuChoice = "exit" or "quit"                 Exit The menu (save files if necessary)
+3) Valid Entry in add function
+   (user properly adds car's name         car's name, and it's attributes               'Car Successfully Added to system'
+    and its attributes)
+
+4) Invalid Entry in search function       searchChoice = "something invalid"            Display the search menu again
+
+5) Valid Entry in search function         searchChoice = "hasfeature"                   Call hasfeature() function
+   (user calls the functions listed       searchChoice = "checkauto"                    Call checkauto() function
+    in the options)			  searchChoice = "show"                         Call show() function
+                                          searchChoice = "quit" or "exit"               Display User menu (also reset structures)
+
+6) Only one car matches feature           hFeature = "attribute looking for"            Display the Car's Name and all of its attributes
+  (in hasFeature() function,								Then terminate the search mode
+   only one car has the feature
+   that the user is looking for)
+
+7) Car not there in system                carLookingFor = "doesn't exits"            	Display "Car not found" message
+   (in checkAuto() function,
+    the car the user is looking for
+    is not there)
+

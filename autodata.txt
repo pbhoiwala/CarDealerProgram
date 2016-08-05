@@ -1,0 +1,4 @@
+Mazda 6,AWD,V6,Looks Good,Great gas mileage,,
+Honda Pilot,Large,V6,AWD,Looks like a box,,
+Corvette,Fast,Great sound system,Looks Good,,
+DeLorean,V6,Looks Good,Stainless something,Has flux,,

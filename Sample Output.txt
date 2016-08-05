@@ -1,0 +1,187 @@
+      WELCOME TO THE PROGRAM!
+  This program has two features: 
+  ADD: Will add info of your car to the file 
+  SEARCH: Will search for the best car for you 
+   ~ HASFEATURE: Look up a car by its Attribute 
+   ~ CHECKAUTO: Look up a car by its Name 
+   ~ SHOW: Display cars that match your criteria
+   ~ These functions will only work in SEARCH
+  User Menu will accept 'words' and 'numbers'
+  The program is Not Case Sensitive 
+
+
+ ******************************
+ ~~~~~~~~~~~~ MENU ~~~~~~~~~~~~
+ ******************************
+
+ What would you like to Do? 
+ 1 - Add mode (add) 
+ 2 - Search mode (search) 
+ 3 - Quit (quit)
+ Choice: Add
+
+
+ ******************************
+        *** ADD MODE ***       
+
+ Enter the name of the Car: Mazda 6
+ Enter it's attributes: 
+                        AWD
+                        V6
+                        Looks Good
+                        Great gas mileage
+                        
+    Car Successfully Added!    
+ ******************************
+
+
+
+ ******************************
+ ~~~~~~~~~~~~ MENU ~~~~~~~~~~~~
+ ******************************
+
+ What would you like to Do? 
+ 1 - Add mode (add) 
+ 2 - Search mode (search) 
+ 3 - Quit (quit)
+ Choice: Add
+
+
+ ******************************
+        *** ADD MODE ***       
+
+ Enter the name of the Car: Honda Pilot
+ Enter it's attributes: 
+                        Large
+                        V6
+                        AWD
+                        Looks like a box
+                        
+    Car Successfully Added!    
+ ******************************
+
+
+
+ ******************************
+ ~~~~~~~~~~~~ MENU ~~~~~~~~~~~~
+ ******************************
+
+ What would you like to Do? 
+ 1 - Add mode (add) 
+ 2 - Search mode (search) 
+ 3 - Quit (quit)
+ Choice: Add
+
+
+ ******************************
+        *** ADD MODE ***       
+
+ Enter the name of the Car: Corvette
+ Enter it's attributes: 
+                        Fast
+                        Great sound system
+                        Looks Good
+                        
+    Car Successfully Added!    
+ ******************************
+
+
+
+ ******************************
+ ~~~~~~~~~~~~ MENU ~~~~~~~~~~~~
+ ******************************
+
+ What would you like to Do? 
+ 1 - Add mode (add) 
+ 2 - Search mode (search) 
+ 3 - Quit (quit)
+ Choice: Add
+
+
+ ******************************
+        *** ADD MODE ***       
+
+ Enter the name of the Car: DeLorean
+ Enter it's attributes: 
+                        V6
+                        Looks Good
+                        Stainless something
+                        Has flux
+                        
+    Car Successfully Added!    
+ ******************************
+
+
+
+ ******************************
+ ~~~~~~~~~~~~ MENU ~~~~~~~~~~~~
+ ******************************
+
+ What would you like to Do? 
+ 1 - Add mode (add) 
+ 2 - Search mode (search) 
+ 3 - Quit (quit)
+ Choice: Search
+
+
+ ******************************
+      *** SEARCH MODE ***      
+ Name of the Search: A very good Car
+
+ How do you want to search? 
+ 'CheckAuto' or 'HasFeatures' or 'Show' or 'Exit') : hasfeature
+ Feature: Looks Good
+
+ How do you want to search? 
+ 'CheckAuto' or 'HasFeatures' or 'Show' or 'Exit') : hasfeature
+ Feature: V6
+
+ How do you want to search? 
+ 'CheckAuto' or 'HasFeatures' or 'Show' or 'Exit') : checkauto
+ Car's Name:  Corvette
+ Car Not Found 
+
+ How do you want to search? 
+ 'CheckAuto' or 'HasFeatures' or 'Show' or 'Exit') : checkauto
+ Car's Name:  DeLorean
+ Attributes: 
+             v6
+             looks good
+             stainless something
+             has flux
+             
+
+ How do you want to search? 
+ 'CheckAuto' or 'HasFeatures' or 'Show' or 'Exit') : Show
+ Cars that match your search criteria are: 
+ 1.  mazda 6
+ 2.  delorean
+
+
+ How do you want to search? 
+ 'CheckAuto' or 'HasFeatures' or 'Show' or 'Exit') : hasfeature
+ Feature: AWD
+
+ CONGRATULATIONS !!! Car Found !!! 
+ Car Name: mazda 6 Is Your Car 
+ Attributes: 
+ awd
+ v6
+ looks good
+ great gas mileage
+ 
+ ******************************
+
+
+ ******************************
+ ~~~~~~~~~~~~ MENU ~~~~~~~~~~~~
+ ******************************
+
+ What would you like to Do? 
+ 1 - Add mode (add) 
+ 2 - Search mode (search) 
+ 3 - Quit (quit)
+ Choice: Quit
+
+
+RUN SUCCESSFUL (total time: 3m 35s)

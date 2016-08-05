@@ -1,0 +1,22 @@
+
+ TITLE: A very good Car
+
+CheckAuto:
+delorean
+v6
+looks good
+stainless something
+has flux
+
+Show:
+ Cars that match your search criteria are: 
+ 1.  mazda 6
+ 2.  delorean
+
+ CONGRATULATIONS !!! Car Found !!! 
+ Car Name: mazda 6 Is Your Car 
+ Attributes: 
+ awd
+ v6
+ looks good
+ great gas mileage
